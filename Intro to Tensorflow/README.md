@@ -4,5 +4,5 @@
 
 ## Table of contents 
   * [Links]
-  https://www.tensorflow.org/
+      *[https://www.tensorflow.org/]
   * [ipynb files]
